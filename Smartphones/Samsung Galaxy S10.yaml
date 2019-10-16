@@ -30,6 +30,7 @@ Nano_sim: +
 USB: C
 WiFi: ax
 Bluetooth: 5
+Battery: 3400
 
 Jack: +
 NFC: +
